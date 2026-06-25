@@ -1,6 +1,6 @@
-Name: Aivan James D. Sotto
-Section: 1Cpe-C
-Course: CPP102 - Programming Logic and Design
+Name: Aivan James D. Sotto<br>
+Section: 1Cpe-C<br>
+Course: CPP102 - Programming Logic and Design<br>
 Activity Title: Introduction to Python, Git, and Github
 
 ## Reflection
